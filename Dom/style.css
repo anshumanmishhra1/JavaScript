@@ -1,0 +1,17 @@
+.heading{
+    color: blue;
+    background-color: yellow;
+}
+#heading2{
+    color: red;
+    background-color: yellow;
+}
+
+body{
+    background-color: pink;
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
